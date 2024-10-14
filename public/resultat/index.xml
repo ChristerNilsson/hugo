@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resultats on Seniorschack</title>
+    <link>http://localhost:1313/resultat/</link>
+    <description>Recent content in Resultats on Seniorschack</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/resultat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Individ</title>
+      <link>http://localhost:1313/resultat/individ/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resultat/individ/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;TOUR=14507&#34;&gt;Klass M&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;TOUR=14508&#34;&gt;Klass 1&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;TOUR=14509&#34;&gt;Klass 2&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;TOUR=14510&#34;&gt;Klass 3&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;TOUR=14512&#34;&gt;Klass 4&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://chess-results.com/tnr990477.aspx?lan=6&#34;&gt;Stockholmsmästerskap Veteran 60+&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;FairPair&#34;&gt;FairPair&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lag</title>
+      <link>http://localhost:1313/resultat/lag/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resultat/lag/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://member.schack.se/ShowTournamentServlet?id=14266&#34;&gt;Allsvenskan&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://member.schack.se/ShowTournamentServlet?id=14744&#34;&gt;Stockholmsserien&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://member.schack.se/ShowTournamentServlet?id=14562&#34;&gt;Lag-DM&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,6 @@
+{{ range where .Pages "Type" "post" }}
+    <article>
+        <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+        <p>{{ .Summary }}</p>
+    </article>
+{{ end }}

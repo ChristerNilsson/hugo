@@ -1,0 +1,32 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Seniorschack'
+theme = 'ananke'
+
+[menu]
+	[[menu.main]]
+		name = "Arkiv"
+		url = "/Arkiv/"
+	[[menu.main]]
+		name = "Externa länkar"
+		url = "/Externa länkar/"
+	[[menu.main]]
+		name = "Klubben"
+		url = "/Klubben/"
+	[[menu.main]]
+		name = "Kontakt"
+		url = "/Kontakt/"
+	[[menu.main]]
+		name = "Nyheter"
+		url = "/Nyheter/"
+	[[menu.main]]
+		name = "Program"
+		url = "/Program/"
+	[[menu.main]]
+		name = "Rating"
+		url = "/Rating/"
+	[[menu.main]]
+		name = "Resultat"
+		url = "/Resultat/"
+
+
